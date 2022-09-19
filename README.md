@@ -1,8 +1,7 @@
-### Ola ! , eu sou o Xavier César
+Hello, my name is Xaviel César João, I am a Fullstrack developer and I specializeed in API development with JAVA, PHP with over 2 years of experience. On my profile you will find some outstanding work to validate my experience.
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Microservices com Spring boot, Laravel e Banco de Dados
-- 💬 Contacte-me por email: xaviercesarxisce@gmail.com
-- 😄 XAVITO
+ 🔭 I am currently working on some personal projects 😎
+ 💬 I’m currently learning FastAPI, Spring Framework, VUE JS and Laravel
+-
 
   
